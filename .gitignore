@@ -4,6 +4,9 @@
 .vscode/
 .DS_Store
 
+out/
+target/
+
 # Log file
 *.log
 
